@@ -1,1 +1,1 @@
-Shell Basics Repo
+Shell Basics Repository
